@@ -11,23 +11,23 @@
   "username": "visitor",
   "hostname": "webshell",
   "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/arghunter/",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
+    "email": "acgo8888@gmail.com",
+    "github": "arghunter",
     "linkedin": "you"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "clEar",
+      "Glasses-based beamforming hearing aid ",
+      "https://github.com/arghunter/Eyehear"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "FlamProtect",
+      "A program that simulates wildfire spread and optimizes firebreak placement to minimize burn area",
+      "https://github.com/arghunter/Synopsys2022"
     ]
   ],
   "colors": {
